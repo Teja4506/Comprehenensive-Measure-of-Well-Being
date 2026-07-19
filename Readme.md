@@ -79,17 +79,17 @@ The high R² score confirms that HDI can be very accurately estimated using just
 ## 🔗 Links
 
 - **Live Application:** [Deployed on Render](#) <!-- paste your Render URL here -->
-- **GitHub Repository:** [github.com/farzana1234-csd/HDI-Prediction-System](https://github.com/farzana1234-csd/HDI-Prediction-System)
+- **GitHub Repository:** https://github.com/Teja4506/Comprehenensive-Measure-of-Well-Being
 
 ---
 
 ## 👩‍💻 Team & Acknowledgements
 
-This project was completed as part of the **SmartBridge AI/ML Internship Program**, developed by a 5-member team with **Farzana** as **Team Lead**.
+This project was completed as part of the **SmartBridge AI/ML Internship Program**, developed by a 5-member team with **Dharma Teja Bolisetty ** as **Team Lead**.
 
 Special thanks to:
 - SmartBridge AI/ML Internship Program
-- NRI Institute of Technology, Guntur
+- Kallam haranadha reddy Institute of Technology, chowdavaram
 - UNDP Human Development Reports (data source)
 
 ---
